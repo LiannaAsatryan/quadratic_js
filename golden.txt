@@ -1,0 +1,10 @@
+no solution
+0 0.75
+0.171
+R
+mistake
+-129.527 -17.139
+-2
+no solution
+mistake
+1
